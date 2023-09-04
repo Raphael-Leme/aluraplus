@@ -2,4 +2,9 @@
 
 <h2>Descrição do projeto</h2>
 
-#Projeto elaborado no curso da Alura - "HTML e CSS: Praticando HTML / CSS", criado para pratica dos conceitos de HTML e CSS
+Projeto elaborado no curso da Alura - "HTML e CSS: Praticando HTML / CSS", criado para pratica dos conceitos de HTML e CSS
+
+#Autor
+
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Raphael Leme</sub>](https://github.com/Raphael-Leme) |
+| :---: |
