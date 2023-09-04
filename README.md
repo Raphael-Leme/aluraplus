@@ -6,5 +6,5 @@ Projeto elaborado no curso da Alura - "HTML e CSS: Praticando HTML / CSS", criad
 
 #Autor
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Raphael Leme</sub>](https://github.com/Raphael-Leme) |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/131314521?s=400&v=4" width=115><br><sub>Raphael Leme</sub>](https://github.com/Raphael-Leme) |
 | :---: |
